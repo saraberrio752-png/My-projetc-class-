@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solutions/">
-    <Project Path="../../../../../../../../My Project Class/MyProjectClass/IsTheNumberEvenOrNot/IsTheNumberEvenOrNot.csproj" />
+    <Project Path="IsTheNumberEvenOrNot/IsTheNumberEvenOrNot.csproj" />
+    <Project Path="LargerNumber/LargerNumber.csproj" Id="9dceded3-8a4b-4368-aadd-33120c7884af" />
   </Folder>
 </Solution>
