@@ -4,4 +4,7 @@
     <Project Path="LargerNumber/LargerNumber.csproj" Id="9dceded3-8a4b-4368-aadd-33120c7884af" />
     <Project Path="SortNumber/SortNumber.csproj" Id="4e744db6-65df-43b4-b969-9f59921aba9e" />
   </Folder>
+  <Folder Name="/Solutions/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="b0a02c49-c01f-4378-8840-6362f2c9a571" />
+  </Folder>
 </Solution>
