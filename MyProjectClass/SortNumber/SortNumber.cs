@@ -1,6 +1,6 @@
 ﻿using Shared;
 var temp =0;
-var answer = string.Empty;
+var answer = "Yes";
 var options = new List<string> { "Yes", "Not" };
 
 do
